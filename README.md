@@ -1,5 +1,4 @@
 # website-design
-<!DOCTYPE html>
 <html>
 <table>
 <title>
@@ -44,7 +43,6 @@
 </td>
 </tr>
  <main style="background-color:grey;">
-<img src="https://www.meme-arsenal.com/memes/165decae4c8605c42463e1fd4f4a50b3.jpg"width="200px" height="200px"/>
 <b>Также не забываем про мой тик ток:@im.nothing74</b>
  </main>
 </body>
