@@ -1,9 +1,6 @@
 # website-design
 <html>
 <table>
-<title>
-Помогаю с оформлением сайтов
-</title>
 <h1>Оформляю и выставляю сайты</h1>
 <header style="background-color:rgb(88, 162, 241);">
 Помогаю оформлять и выставлять сайты
