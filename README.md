@@ -16,7 +16,7 @@
 <body>
 <tr style="background-color:lightgrey;">
 <td style="background-color:lightgrey;">
-День
+День.
 </td>
 <td style="background-color:lightgrey;">Время</td>
 </tr>
